@@ -10,3 +10,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] some tasklist check
+- [ ] it automaticly adds a new checkboc
+- [X] now with a checked box
